@@ -1,0 +1,15 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore the src directory
+/src/
+
+# Ignore the libs directory inside the assets folder
+/assets/libs/
+/assets/css/
+/assets/images/
+/assets/img/
+/assets/fonts/
+
+# Ignore notes.txt
+notes.txt
